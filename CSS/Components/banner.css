@@ -3,7 +3,7 @@
     120deg,
     rgba(0, 0, 0, 0.8),
     rgba(0, 0, 0, 0.2)
-  ), url("/landing/Images/background.jpg");
+  ), url("../../Images/background.jpg");
   color: white;
   padding: 75px 0px;
   background-repeat: no-repeat;
